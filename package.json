@@ -1,0 +1,16 @@
+{
+  "name": "mp-pi",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "request": "^2.83.0",
+    "mfrc522-rpi": "^1.1.0",
+    "onoff": "^2.0.0",
+    "rpi-gpio-buttons": "^1.0.4",
+    "lcd": "^2.0.2"
+  }
+}

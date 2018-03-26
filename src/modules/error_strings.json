@@ -1,0 +1,45 @@
+{
+  "general": {
+    "2000": {"1": "Error: Node", "2": "Prozess Fehler"},
+    "2001": {"1": "Error: Ressource", "2": "nicht gefunden"},
+    "2002": {"1": "Error: IP", "2": "nicht akzeptiert"},
+    "2003": {"1": "Error: max.", "2": "1 Trans. alle 3s"},
+    "2004": {"1": "Error: Trans.", "2": "Zeit Limit err."},
+    "2005": {"1": "Error: ENV", "2": "Wert ungueltig"}
+  },
+  "database": {
+    "3000": {"1": "Error:", "2": "Datenbankfehler"}
+  },
+  "card": {
+    "4000": {"1": "Error: Update", "2": "Param. fehlt"},
+    "4001": {"1": "Error: Karten-ID", "2": "ungueltig"},
+    "4002": {"1": "Error: Karten-ID", "2": "existiert nicht"},
+    "4003": {"1": "Error: Karten-ID", "2": "existiert schon"},
+    "4004": {"1": "Error: Karte", "2": "nicht aktiviert"},
+    "4005": {"1": "Error: Karte", "2": "nicht zugeordnet"}
+  },
+  "user": {
+    "5000": {"1": "Error: falscher", "2": "Username"},
+    "5001": {"1": "Error: User", "2": "exisitert nicht"},
+    "5002": {"1": "Error: User", "2": "exist. bereits"},
+    "5003": {"1": "Error: Update", "2": "Param. fehlt"}
+  },
+  "terminal": {
+    "6000": {"1": "Error: Terminal", "2": "Token fehlt"},
+    "6001": {"1": "Error: Terminal", "2": "existiert nicht"},
+    "6002": {"1": "Error: Terminal", "2": "Name ungueltig"},
+    "6003": {"1": "Error: Terminal", "2": "Token ungueltig"},
+    "6004": {"1": "Error: Terminal", "2": "Token doppelt"},
+    "6005": {"1": "Error: Update", "2": "Param. fehlt"}
+  },
+  "transaction": {
+    "7000": {"1": "Error: Betrag", "2": "ungueltig"},
+    "7001": {"1": "Error: Betrag", "2": "ungueltig"},
+    "7002": {"1": "Error: Betrag", "2": "ungueltig"},
+    "7003": {"1": "Error: Betrag", "2": "ungueltig"},
+    "7004": {"1": "Error: Param.", "2": "ungueltig"},
+    "7005": {"1": "Error: zu", "2": "wenig Guthaben"},
+    "7006": {"1": "Error: Trans.", "2": "exist. nicht"},
+    "7007": {"1": "Error: Trans.-Ma", "2": "exist. nicht"}
+  }
+}
